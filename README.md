@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A friend of mine is a chemical scientist at ISUCT and he is busy with his research about aqueous solutions. He is using a program called "kurvlr" but he was irritated with the complexity of noticing minor changes of the result, while tuning the chemical model's properties. So he asked me to write a piece of software that could make it easier, and, here the kirvlrGUI2 goes.
+A friend of mine is a chemical scientist at ISUCT and he is busy with his research about aqueous solutions. He is using a program called "kurvlr" but he is irritated with the complexity of noticing minor changes in the results, while fine-tuning the chemical model's properties. So he asked me to write a piece of software that could make it easier, and, here the kirvlrGUI2 goes.
 
 ### Interface
 
