@@ -8,6 +8,10 @@ A friend of mine is a chemical scientist at ISUCT and he is busy with his resear
 
 ![kurvlrGUI2](https://pp.userapi.com/c637516/v637516456/4b792/Z0aE0Zqjzn4.jpg)
 
+### Dependencies
+
+This program uses the following libraries: jFreeChart.
+
 ### Contacts
 
 danil.kamyshov@gmail.com, https://vk.com/alhayat
